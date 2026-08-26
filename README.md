@@ -6,7 +6,7 @@ Built as a focused product workflow for coaches and team managers who need a cle
 
 ## Live Demo
 
-> Add your Vercel deployment URL here after deployment.
+[View the live app] (https://ylb-team-manager.vercel.app/)
 
 ## Features
 
